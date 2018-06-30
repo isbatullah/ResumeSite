@@ -1,1 +1,135 @@
+div#leftPage1{
+  background-color: rgb(230, 233, 237);
+}
 
+div#leftPage2{
+  background-color: rgb(230, 233, 237);
+}
+
+div#leftPage3{
+  padding-top: 30px;
+  font-size: 35px;
+  color: rgb(75, 106, 152);
+  text-align: center;
+  background-color: rgb(230, 233, 237);
+}
+
+div#leftPage4{
+  padding-top: 30px;
+  font-size: 35px;
+  color: rgb(75, 106, 152);
+  text-align: center;
+  background-color: rgb(230, 233, 237);
+}
+
+div#leftPage5{
+  padding-top: 30px;
+  font-size: 35px;
+  color: rgb(75, 106, 152);
+  text-align: center;
+  background-color: rgb(230, 233, 237);
+}
+
+div#leftPage6{
+  padding-top: 30px;
+  font-size: 35px;
+  color: rgb(75, 106, 152);
+  text-align: center;
+  background-color: rgb(230, 233, 237);
+}
+
+div#leftPage7{
+  padding-top: 30px;
+  font-size: 35px;
+
+  color: rgb(75, 106, 152);
+  text-align: center;
+  background-color: rgb(230, 233, 237);
+}
+
+div#rightPage1{
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+div#rightPage2{
+  border-top:3px solid rgb(171, 175, 180);
+}
+
+div#rightPage3{
+  font-family: 'Mukta', sans-serif;
+  font-size: 20px;
+  padding: 30px 30px 30px 30px;
+}
+
+div#rightPage4{
+  padding: 30px 30px 30px 30px;
+}
+
+div#rightPage5{
+  padding: 30px 30px 30px 30px;
+}
+
+div#rightPage6{
+  padding: 30px 30px 30px 30px;
+}
+
+div#rightPage7{
+  padding: 30px 30px 30px 30px;
+}
+
+a#listitem{
+  color:rgb(171, 175, 180);
+  font-size: 20px;
+}
+
+a#listitem:hover{
+  color:rgb(96, 95, 96);
+}
+
+h1#name{
+  font-family: 'Bree Serif', serif;
+  font-size: 70px;
+  color:rgb(100, 177, 201);
+}
+
+ul#skillset{
+  font-family: 'Mukta', sans-serif;
+  font-size: 25px;
+  color: rgb(18, 174, 208);
+}
+
+img#image{
+  margin-top: 20%;
+  display: block;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1#expTitle{
+  font-size: 25px;
+  color: rgb(18, 174, 208);
+}
+
+li#expSum{
+  font-family: 'Mukta', sans-serif;
+  font-size: 18px;
+}
+
+li#educSum{
+  font-size: 18px;
+  font-family: 'Mukta', sans-serif;
+}
+
+h1#educationTitle{
+  font-size: 25px;
+  color: rgb(18, 174, 208);
+}
+
+div#contactCard{
+  font-family: 'Mukta', sans-serif;
+  padding-top: 30px;
+  text-align: right;
+  padding-right: 30px;
+}
